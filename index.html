@@ -1,279 +1,125 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>070900</title>
-    <style>
-        @keyframes scroll {
-            to{
-                transform: rotateX(1800deg);
-            }
-        }
-        @font-face {
-            src: url(font/SourceHanSerifCN-Regular.otf);
-            font-family: 'gooAdo';
-        }
-        *{
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            font-family: 'gooAdo';
-            font-size: 12px;
-        }
-        html,
-        body{
-            display: flex;
-            width: 100%;
-            height: 100%;
-        }
-        body{
-            background-image: linear-gradient(0deg, rgba(200,200,200,0.6) 5%, rgba(200,200,200,0.4) 5%),
-                              linear-gradient(90deg, rgba(200,200,200,0.6) 5%, rgba(200,200,200,0.4) 5%);
-            background-size: 20px 20px;
-        }
-        li{
-            list-style: none;
-        }
-
-        ul{
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            margin: auto;
-            width: 50%;
-            height: 20%;
-            background: rgba(0,0,0,0.8);
-        }
-        ul li{
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            position: relative;
-            width: 22%;
-            height: 80%;
-            padding-top: 8%;
-            border-radius: 20px;
-            background: rgba(255,255,255,0.8);
-            text-align: center;
-            overflow: hidden;
-        }
-        ul li b{
-            display: block;
-            position: absolute;
-            top: 20%;
-            left: 35%;
-            width: 30%;
-            height: 30%;
-        }
-        ul li:nth-of-type(1){
-            background: rgba(255,0,0,0.8);
-        }
-        ul li:nth-of-type(1) b{
-            border-radius: 50%;
-            background: rgba(255,255,0,0.5);
-        }
-        ul li:nth-of-type(1) b:before,
-        ul li:nth-of-type(1) b:after{
-            position: absolute;
-            top: 10%;
-            content: '.';
-            color: rgba(140,140,140,1);
-        }
-        ul li:nth-of-type(1) b:before{
-            left: 30%;
-        }
-        ul li:nth-of-type(1) b:after{
-            right: 30%;
-        }
-        ul li:nth-of-type(2):before{
-            position: absolute;
-            top: -24%;
-            content: '';
-            width: 44%;
-            height: 44%;
-            transform: rotate(45deg);
-            background: rgba(0,255,255,0.5);
-        }
-        ul li:nth-of-type(2):after{
-            position: absolute;
-            top: 4%;
-            right: -28%;
-            content: '';
-            width: 34%;
-            height: 54%;
-            transform: rotate(45deg);
-            background: rgba(255,0,255,0.5);
-        }
-        ul li:nth-of-type(2) b{
-            top: 24%;
-            left: 38%;
-            width: 24%;
-            height: 30%;
-            border: 2px solid rgba(0,0,0,0.5);
-            border-radius: 0 0 50% 50%;
-        }
-        ul li:nth-of-type(2) b:before{
-            position: absolute;
-            z-index: 10;
-            top: -4%;
-            left: -5%;
-            content: '';
-            width: 110%;
-            height: 58%;
-            border-bottom: 2px solid rgba(0,0,0,0.5);
-            background: rgba(210,210,210,1);
-        }
-        ul li:nth-of-type(3):before{
-            position: absolute;
-            top: 0;
-            content: '';
-            width: 34%;
-            height: 34%;
-            background: rgba(0,0,255,0.3);
-        }
-        ul li:nth-of-type(3):after{
-            position: absolute;
-            top: 0;
-            right: 0;
-            content: '';
-            width: 24%;
-            height: 54%;
-            background: rgba(0,255,0,0.5);
-        }
-        ul li:nth-of-type(3) b{
-            top: 24%;
-            left: 43%;
-            width: 14%;
-            height: %;
-            border-width: 12px 4px 0;
-            border-style: solid;
-            border-color: rgba(150,150,150,0.6) transparent;
-            background-clip: content-box;
-            border-radius: 0 0 6px 6px;
-            background-image: linear-gradient(to top, rgba(255,0,0,0.5) 60%, rgba(200,200,200,0.4) 60%);
-        }
-        ul li:nth-of-type(4):before{
-            position: absolute;
-            top: -14%;
-            left: 0;
-            content: '';
-            width: 36%;
-            height: 36%;
-            border-radius: 50%;
-            background: rgba(255,0,0,0.5);
-        }
-        ul li:nth-of-type(4):after{
-            position: absolute;
-            top: 0;
-            right: -30%;
-            content: '';
-            width: 60%;
-            height: 60%;
-            border-radius: 50%;
-            background: rgba(255,255,0,0.5);
-        }
-        ul li:nth-of-type(4) b{
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            top: 24%;
-            left: 40%;
-            width: 20%;
-            height: 28%;
-            border: 2px solid rgba(0,0,0,0.6);
-        }
-        ul li h4{
-            font-size: 16px;
-        }
-        ul li.active{
-            animation: scroll 5s ease-in-out;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>novatex</title>
+  <link rel="stylesheet" href="css/common.css" />
+  <style>
+    section {
+      min-height: calc(100vh - 80px);
+    }
+    section .banner {
+      margin: auto;
+      height: calc(100vh - 40px);
+      box-shadow: 1px 2px 1px 1px #ccc;
+      background: lightsalmon;
+    }
+    section ul {
+      margin: auto;
+      padding: 2vw 0;
+      display: flex;
+      flex-wrap: wrap;
+      /*border-top: 1px solid #ddd;*/
+    }
+    section ul li {
+      margin: 1vw 0 0 1.33vw;
+      width: 20vw;
+      height: 30vw;
+      min-width: 110px;
+      min-height: 180px;
+      border: 1px solid #eee;
+      box-shadow: 1px 1px 1px 1px #ddd;
+    }
+    section ul li:nth-of-type(4n+1) {
+      margin-left: 0;
+    }
+    section ul li dl dt {
+      height: 20vw;
+      background: #eee;
+    }
+    section ul li dl dt:hover {
+      cursor: pointer;
+      opacity: .2;
+      background: #0f0;
+    }
+    section ul li dl dd {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      align-items: center;
+      padding: 0.4vw 0 1vw;
+      height: 10vw;
+    }
+    section ul li dl dd span {
+      font-size: 0.9vw;
+      color: #aaa;
+    }
+    section ul li dl dd b {
+      color: #f00;
+    }
+    section ul li dl dd a.get-btn {
+      padding: 0.4vw 4vw;
+    }
+  </style>
 </head>
 <body>
-    <ul>
-        <li><h4>抛硬币</h4><span>点击抛硬币</span><b></b></li>
-        <li><h4>今天吃什么</h4><span>点击抛硬币</span><b></b></li>
-        <li><h4>今天喝什么</h4><span>点击抛硬币</span><b></b></li>
-        <li><h4>砍数字</h4><span>点击抛硬币</span><b>N</b></li>
+  <div id="header-wrap">
+    <header class="autoWidth">
+      <ul class="moreNav">
+        <li><a href="html/cart.html">购物袋&nbsp;<i>(2)</i></a></li>
+        <li><a href="html/order.html">订单</a></li>
+        <li><a href="#">账户</a></li>
+      </ul>
+      <a href="#" id="logo">novatex</a>
+      <b class="cart"></b>
+    </header>
+  </div>
+  <section>
+    <div class="autoWidth banner"></div>
+    <ul class="autoWidth lists">
+      <!--<li>-->
+        <!--<dl>-->
+          <!--<dt></dt>-->
+          <!--<dd>-->
+            <!--<span>SFJ-3335</span>-->
+            <!--<b>RMB 225</b>-->
+            <!--<a href="#" class="get-btn">添加到购物袋</a>-->
+          <!--</dd>-->
+        <!--</dl>-->
+      <!--</li>-->
     </ul>
+  </section>
+  <div id="footer-wrap">
+    <footer class="autoWidth">
+      <p>© 诺华（杭州）纺织有限公司 - 2017 NOVATEX Inc.</p>
+    </footer>
+  </div>
 
-    <script>
-        var coin = ['正', '反'];
-        var eat = ['川菜', '湘菜', '粤菜', '闽菜', '娃娃菜'];
-        var drink = ['可乐', '橙汁', '牛奶', '豆浆', '椰子汁'];
+  <script src="js/data.js"></script>
+  <script src="js/common.js"></script>
+  <script>
+    const section = document.querySelector('section');
+    const listsGoods = section.querySelector('ul');
 
-        var ul = document.querySelector('ul');
-        var lis = ul.querySelectorAll('li');
-        lis = Array.from(lis);
-        //lis[0]
-        (function () {
-            var val = '';
-            var angle = 0;
-            lis[0].onclick = function () {
-                val = coin[Math.round(Math.random()*(coin.length-1))];
-                angle = 0;
-                lis[0].classList.add('active');
-                setTimeout(function () {
-                    lis[0].classList.remove('active');
-                    lis[0].firstElementChild.innerText = val;
-                }, 5100);
-            };
-        })();
-        //lis[1]
-        (function () {
-            var val = '';
-            var angle = 0;
-            lis[1].onclick = function () {
-                val = lis[1].firstElementChild.innerText;
-                angle = 0;
-                lis[1].classList.add('active');
-                setTimeout(function () {
-                    lis[1].classList.remove('active');
-                    lis[1].firstElementChild.innerText = noRepeat(eat, val);
-                }, 5100);
-            };
-        })();
-        //lis[2]
-        (function () {
-            var val = '';
-            var angle = 0;
-            lis[2].onclick = function () {
-                val = lis[2].firstElementChild.innerText;
-                angle = 0;
-                lis[2].classList.add('active');
-                setTimeout(function () {
-                    lis[2].classList.remove('active');
-                    lis[2].firstElementChild.innerText = noRepeat(drink, val);
-                }, 5100);
-            };
-        })();
-        //lis[3]
-        (function () {
-            var val = '';
-            var angle = 0;
-            lis[3].onclick = function () {
-                val = Math.round(Math.random()*100);
-                angle = 0;
-                lis[3].classList.add('active');
-                setTimeout(function () {
-                    lis[3].classList.remove('active');
-                    lis[3].firstElementChild.innerText = val;
-                }, 5100);
-            };
-        })();
-        //function
-        function noRepeat(arr, tar) {
-            var now = null;
-            fn();
-            function fn() {
-                now = arr[Math.round(Math.random()*(arr.length-1))];
-                if(now === tar){
-                    fn();
-                }
-            }
-            return now;
-        }
-    </script>
+    //生成产品列表
+    (() => {
+      let str = '';
+      dataGoods.forEach(e => {
+        str += `
+          <li>
+          <dl>
+            <dt></dt>
+            <dd>
+              <span>${e.name}</span>
+              <b>RMB ${e.price}</b>
+              <a href="#" class="get-btn">添加到购物袋</a>
+            </dd>
+          </dl>
+        </li>
+        `;
+      });
+      listsGoods.innerHTML = str;
+    })();
+  </script>
 </body>
 </html>
