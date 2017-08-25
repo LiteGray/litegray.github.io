@@ -279,7 +279,7 @@
         str += `
           <li>
           <dl>
-            <dt><img src="${e.pic}" /></dt>
+            <dt><img _src="${e.pic}" class="picGoods" /></dt>
             <dd>
               <em style="display: none">${e.id}</em>
               <span>${e.name}</span>
@@ -319,6 +319,25 @@
         });
       });
     }
+
+    (() => {
+      //懒加载
+      const picGoods = listsGoods.querySelectorAll('.picGoods');
+      window.addEventListener('scroll', lazyLoading);
+
+      function lazyLoading() {
+        picGoods.forEach(e => {
+          if (e.getBoundingClientRect().top < window.innerHeight) {
+            const _src = e.getAttribute('_src');
+            if (_src) {
+              e.src = _src;
+              e.removeAttribute('_src');
+            }
+          }
+        });
+      }
+    })();
+
   </script>
 </body>
 </html>
