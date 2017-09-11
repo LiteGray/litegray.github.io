@@ -2,137 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a4c2536-ae0a-427a-aaed-bba571f68643" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/0/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/cart.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html/order.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-3275-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-3275.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-4183-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-4183.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-4200-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-4200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-52272-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-52272.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-62294-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-62294.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-CM601-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-CM601.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-HD021-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-HD021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-HD046-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-HD046.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-HD078xiuhua-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-HD078xiuhua.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-K048-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-K048.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-K049-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-K049.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-K058-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-K058.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-L2024-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-L2024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-L2027-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-L2027.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-L2088-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-L2088.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-PB01-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-PB01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-S005-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-S005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-S013-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-S013.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-S017-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-S017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-S032-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/BZ-S032.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-3335-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-3335.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-52838-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-52838.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-7814-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-7814.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-C3869-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-C3869.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-CM601-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-CM601.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-HD078xiuhua-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-HD078xiuhua.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-HD118-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-HD118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-L2024-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/CD-L2024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/PD-3385-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/PD-3385.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/PD-L042-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/PD-L042.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/PD-S024-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/PD-S024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/PD-XH007-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/PD-XH007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-1201-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-1201.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-3275-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-3275.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-3335-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-3335.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-3385-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-3385.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-3391-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-3391.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-4187-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-4187.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-4200-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-4200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-62779-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-62779.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-C4369-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-C4369.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-HD021-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-HD021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-HD078xiuhua-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-HD078xiuhua.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-HD078yuandian-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/SFJ-HD078yuandian.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/YD-3275-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/YD-3275.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/YD-4200-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/YD-4200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/YD-62779-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/YD-62779.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/YD-HD118-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/YD-HD118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-52838-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-52838.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-C2868-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-C2868.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-C3465-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-C3465.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-CM601-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-CM601.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-HD021-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-HD021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-HD078xiuhua-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-HD078xiuhua.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-HD118-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-HD118.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-L2024-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZB-L2024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZQ-7801-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZQ-7801.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZQ-HD021-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZQ-HD021.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZQ-L2024-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZQ-L2024.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZQ-L2027-min.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ZQ-L2027.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/banner-0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/banner-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/banner-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/banner-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/data.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/novatex/html/cart.html" afterPath="$PROJECT_DIR$/novatex/html/cart.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -147,11 +18,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/novatex/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="667">
-              <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
-              <folding />
+            <state relative-caret-position="226">
+              <caret line="365" column="26" lean-forward="true" selection-start-line="365" selection-start-column="26" selection-end-line="365" selection-end-column="26" />
+              <folding>
+                <marker date="1503933562000" expanded="true" signature="10764:11117" ph="..." />
+                <marker date="1503933562000" expanded="true" signature="10779:11103" ph="..." />
+                <marker date="1503933562000" expanded="true" signature="10866:11087" ph="..." />
+                <marker date="1503933562000" expanded="false" signature="10893:10906" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cart.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/novatex/html/cart.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="320" column="39" lean-forward="true" selection-start-line="320" selection-start-column="39" selection-end-line="320" selection-end-column="39" />
+              <folding>
+                <marker date="1505133726000" expanded="true" signature="4803:5314" ph="..." />
+                <marker date="1505133726000" expanded="true" signature="4832:5300" ph="..." />
+                <marker date="1505133726000" expanded="true" signature="4897:5284" ph="..." />
+                <marker date="1505133726000" expanded="true" signature="4917:5126" ph="..." />
+                <marker date="1505133726000" expanded="true" signature="5144:5266" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -206,6 +98,7 @@
         <option value="$PROJECT_DIR$/js/data.js" />
         <option value="$PROJECT_DIR$/html/cart.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/novatex/html/cart.html" />
       </list>
     </option>
   </component>
@@ -248,6 +141,17 @@
               <item name="litegray.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="litegray.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="litegray.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="litegray.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="novatex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="litegray.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="litegray.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="novatex" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -283,26 +187,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="cart.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/novatex/html/cart.html" />
     <configuration name="data.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="data.js" working-dir="$PROJECT_DIR$/js" />
     <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/novatex/index.html" />
     <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/litegray.github.io/index.html" />
-    <configuration name="order.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/novatex/html/order.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/litegray.github.io/novatex/index.html" />
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.cart.html" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.order.html" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.data.js" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.data.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.data.js" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.cart.html" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.order.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (2)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.data.js" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.cart.html" />
       </list>
     </recent_temporary>
   </component>
@@ -324,12 +228,12 @@
       <workItem from="1503127484311" duration="16013000" />
       <workItem from="1503152324763" duration="9924000" />
       <workItem from="1503221223676" duration="109206000" />
-      <workItem from="1505131295012" duration="1979000" />
+      <workItem from="1505131295012" duration="2216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163765000" />
+    <option name="totallyTimeSpent" value="164002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -423,9 +327,36 @@
     <entry file="file://$PROJECT_DIR$/html/cart.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="49" column="25" lean-forward="false" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        <state relative-caret-position="570">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novatex/html/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="320" column="39" lean-forward="true" selection-start-line="320" selection-start-column="39" selection-end-line="320" selection-end-column="39" />
+          <folding>
+            <marker date="1505133726000" expanded="true" signature="4803:5314" ph="..." />
+            <marker date="1505133726000" expanded="true" signature="4832:5300" ph="..." />
+            <marker date="1505133726000" expanded="true" signature="4897:5284" ph="..." />
+            <marker date="1505133726000" expanded="true" signature="4917:5126" ph="..." />
+            <marker date="1505133726000" expanded="true" signature="5144:5266" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novatex/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="365" column="26" lean-forward="true" selection-start-line="365" selection-start-column="26" selection-end-line="365" selection-end-column="26" />
+          <folding>
+            <marker date="1503933562000" expanded="true" signature="10764:11117" ph="..." />
+            <marker date="1503933562000" expanded="true" signature="10779:11103" ph="..." />
+            <marker date="1503933562000" expanded="true" signature="10866:11087" ph="..." />
+            <marker date="1503933562000" expanded="false" signature="10893:10906" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
