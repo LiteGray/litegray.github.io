@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a4c2536-ae0a-427a-aaed-bba571f68643" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/novatex/html/cart.html" afterPath="$PROJECT_DIR$/novatex/html/cart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/box-dispeal/.idea/workspace.xml" afterPath="$PROJECT_DIR$/box-dispeal/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,39 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/novatex/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="365" column="26" lean-forward="true" selection-start-line="365" selection-start-column="26" selection-end-line="365" selection-end-column="26" />
-              <folding>
-                <marker date="1503933562000" expanded="true" signature="10764:11117" ph="..." />
-                <marker date="1503933562000" expanded="true" signature="10779:11103" ph="..." />
-                <marker date="1503933562000" expanded="true" signature="10866:11087" ph="..." />
-                <marker date="1503933562000" expanded="false" signature="10893:10906" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cart.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/novatex/html/cart.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="320" column="39" lean-forward="true" selection-start-line="320" selection-start-column="39" selection-end-line="320" selection-end-column="39" />
-              <folding>
-                <marker date="1505133726000" expanded="true" signature="4803:5314" ph="..." />
-                <marker date="1505133726000" expanded="true" signature="4832:5300" ph="..." />
-                <marker date="1505133726000" expanded="true" signature="4897:5284" ph="..." />
-                <marker date="1505133726000" expanded="true" signature="4917:5126" ph="..." />
-                <marker date="1505133726000" expanded="true" signature="5144:5266" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -228,16 +195,15 @@
       <workItem from="1503127484311" duration="16013000" />
       <workItem from="1503152324763" duration="9924000" />
       <workItem from="1503221223676" duration="109206000" />
-      <workItem from="1505131295012" duration="2216000" />
+      <workItem from="1505131295012" duration="2579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164002000" />
+    <option name="totallyTimeSpent" value="164365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -333,6 +299,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/novatex/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <marker date="1503933562000" expanded="true" signature="10764:11117" ph="..." />
+            <marker date="1503933562000" expanded="true" signature="10779:11103" ph="..." />
+            <marker date="1503933562000" expanded="true" signature="10866:11087" ph="..." />
+            <marker date="1503933562000" expanded="false" signature="10893:10906" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/novatex/html/cart.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -343,19 +322,6 @@
             <marker date="1505133726000" expanded="true" signature="4897:5284" ph="..." />
             <marker date="1505133726000" expanded="true" signature="4917:5126" ph="..." />
             <marker date="1505133726000" expanded="true" signature="5144:5266" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/novatex/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="365" column="26" lean-forward="true" selection-start-line="365" selection-start-column="26" selection-end-line="365" selection-end-column="26" />
-          <folding>
-            <marker date="1503933562000" expanded="true" signature="10764:11117" ph="..." />
-            <marker date="1503933562000" expanded="true" signature="10779:11103" ph="..." />
-            <marker date="1503933562000" expanded="true" signature="10866:11087" ph="..." />
-            <marker date="1503933562000" expanded="false" signature="10893:10906" ph="..." />
           </folding>
         </state>
       </provider>
