@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>LiteGray</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    html,
+    body {
+      display: flex;
+      width: 100vw;
+      height: 100vh;
+      background: linear-gradient(rgba(200,200,200,.4) 6%, rgba(240,240,240,.2) 6%),
+                  linear-gradient(90deg, rgba(200,200,200,.4) 6%, rgba(240,240,240,.2) 6%);
+      background-size: 20px 20px;
+    }
+    li {
+      list-style: none;
+    }
+    a {
+      text-decoration: none;
+    }
+
+    #container {
+      margin: auto;
+      padding: 50px;
+      box-shadow: 1px 1px 1px 1px #ccc;
+      background: rgba(250,250,250,.8);
+    }
+    #container:hover {
+      box-shadow: 0 0 4px 2px rgba(0,255,255,.4);
+    }
+    #container li {
+      padding: 10px;
+      border-bottom: 1px dotted #ccc;
+    }
+    #container li a {
+      color: #666;
+      font-weight: 600;
+    }
+    #container li a:hover {
+      color: rgba(0,255,0,0.6);
+    }
+  </style>
+</head>
+<body>
+  <ul id="container">
+    <li><a href="box-dispeal/index.html">box-dispeal</a></li>
+    <li><a href="novatex/index.html">novatex</a></li>
+    <li><a href="novatex-react/build/index.html">novatex-react</a></li>
+  </ul>
+</body>
+</html>
